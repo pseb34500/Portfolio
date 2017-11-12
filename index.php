@@ -76,14 +76,14 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>Je m'appelle Pelletier Sébastien, je suis passioné d'informatique depuis que j'ai reçu mon premier ordinnateur à l'age de 8 ans et j'ai toujours ue l'envie de travailler dans ce domaine.
-                       J'ai effectué mes études au lycée Jean Moulin de Béziers où j'ai commencé par faire un BEP eletronique puis un BAC PRO MRIM (Mirco Informatique Réseau installation et Maintenance).</p>
+                    <p>Je m'appelle Pelletier Sébastien, je suis passioné d'informatique depuis que j'ai reçu mon premier ordinateur à l'age de 8 ans, et j'ai toujours eu l'envie de travailler dans ce domaine.
+                       J'ai effectué mes études au lycée Jean Moulin de Béziers, où j'ai commencé par faire un BEP électronique puis un BAC PRO MRIM (Mirco informatique Réseau Installation et Maintenance).</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>Apres cela j'ai travaillé un an entant qu'administrateur reseau au Lycée Henri IV de Béziers, c'est à ce moment là que j'ai commencé a m'interréssé au devellopement WEB.
-                    un Proffeseur de classe preparatoire est venu me demandé de faire un site internet pour sa classe.</p>
-                    <p>C'est en moins de 6 mois en ayant aucune connaissance dans ce domaine que j'ai réuissi le defi de creer mon premier site.</p>
-                    <p>En decembre 2016, j'ai ue la chance d'integrer une formation de développeur Logiciel creer par l'école regional du numerique BEWEB</p>
+                    <p>Aprés cela, j'ai travaillé un an en tant qu'administrateur réseau au Lycée Henri IV de Béziers, c'est à ce moment là que j'ai commencé à m'intéresser au développement WEB.
+                    Un professeur de classe préparatoire est venu me demander de faire un site internet pour sa classe.</p>
+                    <p>C'est en moins de 6 mois, en ayant aucune connaissance dans ce domaine, que j'ai réussi le defi de créer mon premier site.</p>
+                    <p>En décembre 2016, j'ai eu la chance d'intégrer une formation de développeur logiciel créer par l'école régionale du numérique BEWEB.</p>
                 </div>
             </div>
         </div>
@@ -118,7 +118,7 @@
               <p>PHP :
               <i class="fa fa-star" aria-hidden="true"></i>
               <i class="fa fa-star" aria-hidden="true"></i>
-              <i class="fa fa-star-o" aria-hidden="true"></i>
+              <i class="fa fa-star" aria-hidden="true"></i>
               <i class="fa fa-star-o" aria-hidden="true"></i>
               <i class="fa fa-star-o" aria-hidden="true"></i>
               </p>
@@ -195,7 +195,7 @@
                             <li>
                                 <a href="https://www.linkedin.com/in/s%C3%A9bastien-pelletier-6332b7135/" class="btn-social btn-outline"><span class="sr-only">Linked In</span><i class="fa fa-fw fa-linkedin"></i></a>
                             </li>
-                            <li> <a href="" class="btn-social btn-outline"><span class="sr-only">Github</span><i class="fa fa-fw fa-github"></i></a>
+                            <li> <a href="https://github.com/pseb34500" class="btn-social btn-outline"><span class="sr-only">Github</span><i class="fa fa-fw fa-github"></i></a>
 
                         </ul>
                     </div>
